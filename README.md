@@ -2,14 +2,14 @@ Pavan Lalwani : [Microsoft Power BI Course](https://www.youtube.com/watch?v=H84U
 What i learn from this course, here is the list:
 # Contents
 1.   Basic Charts in Power BI Desktop
-  *	Column Chart 
-  *	Stacked Column chart
-  *	Donut Chart
-  *	Pie Chart
-  *	Funnel Chart
-  *	Ribbon Chart
-  *	Keep Only and Exclude
-  *	View Data and Export
+  -	Column Chart 
+  -	Stacked Column chart
+  -	Donut Chart
+  -	Pie Chart
+  -	Funnel Chart
+  -	Ribbon Chart
+  -	Keep Only and Exclude
+  -	View Data and Export
 2.   Basic Map
   *	Simple Map 
   *	Filled Map
