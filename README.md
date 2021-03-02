@@ -126,6 +126,7 @@ What i learn from this course, here is the list:
   *	Keep rows and remove rows
   *	Add, Remove and Go to Columns
 
+# Simple Report
 ![Simple Report](https://github.com/Mynuddin-dev/Microsoft-Power-BI/blob/main/report.png)
 
 
